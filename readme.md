@@ -23,6 +23,6 @@ nush ce fac da fac ceva
 (stil: culori, albastru si alb)
 
 ## Script
-(script - de completat)
+(script:Validare Formular)
 
 Status: in lucru
