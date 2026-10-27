@@ -25,4 +25,4 @@ nush ce fac da fac ceva
 ## Script
 (script:Validare Formular)
 
-Status: in lucru
+Status: versiunea A
