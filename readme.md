@@ -14,7 +14,7 @@ nush ce fac da fac ceva
 (header - de completat)
 
 ## Footer
-(footer - de completat)
+(footer: contact si drepturi)
 
 ## Meniu
 (meniu - de completat)
