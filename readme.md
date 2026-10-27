@@ -26,3 +26,5 @@ nush ce fac da fac ceva
 (script:Validare Formular)
 
 Status: versiunea B
+
+fhvdfyvbiusdvbsdi
