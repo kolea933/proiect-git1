@@ -20,7 +20,7 @@ nush ce fac da fac ceva
 (meniu: Acasa, despre, Contact)
 
 ## Stil
-(stil - de completat)
+(stil: culori, albastru si alb)
 
 ## Script
 (script - de completat)
