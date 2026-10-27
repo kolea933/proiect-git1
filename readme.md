@@ -17,7 +17,7 @@ nush ce fac da fac ceva
 (footer: contact si drepturi)
 
 ## Meniu
-(meniu - de completat)
+(meniu: Acasa, despre, Contact)
 
 ## Stil
 (stil - de completat)
