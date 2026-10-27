@@ -11,7 +11,7 @@ nush ce fac da fac ceva
    Data: 27.10.2026
 
    ## Header
-(header - de completat)
+(header: logo si titlu)
 
 ## Footer
 (footer - de completat)
