@@ -20,7 +20,7 @@ nush ce fac da fac ceva
 (meniu - de completat)
 
 ## Stil
-(stil - de completat)
+(stil: culori, albastru si alb)
 
 ## Script
 (script - de completat)
